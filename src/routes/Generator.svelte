@@ -5,7 +5,7 @@
 	import { albumColors } from '$lib/colors';
 	import { textfit } from 'svelte-textfit';
 
-	let text: string = 'brat';
+	let text: string = 'bumpin' that!';
 	let colorPreset = 'brat';
 
 	let styles = {
